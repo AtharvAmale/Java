@@ -1,0 +1,10 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore Code Runner temporary file
+tempCodeRunnerFile.java
+
+# Ignore Java build folders
+bin/
+out/
+target/
